@@ -92,7 +92,7 @@ This uses the AWS CLI to:
 
 Retrieve all EC2 instance IDs
 
-<img src="screenshots/pic4.png" width="400" alt="addpic">
+<img src="screenshots/pic5.png" width="400" alt="addpic">
 
 Retrieve their current states
 
