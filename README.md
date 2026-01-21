@@ -1,4 +1,11 @@
 # EC2 Start / Stop Automation (Python + AWS CLI)
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![AWS IAM](https://img.shields.io/badge/AWS-IAM-orange?logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white)
+![Automation](https://img.shields.io/badge/Focus-Automation-green)
+![AWS EC2](https://img.shields.io/badge/AWS-EC2-orange?logo=amazonec2&logoColor=white)
+
 # Overview
 This project is a beginner-friendly AWS automation script built using Python, boto3, and AWS CLI.
 
