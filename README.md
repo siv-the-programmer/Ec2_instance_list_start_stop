@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 ![AWS IAM](https://img.shields.io/badge/AWS-IAM-orange?logo=amazonaws&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws&logoColor=white)
+![Boto3](https://img.shields.io/badge/Boto3-AWS%20SDK-yellow)
 ![Automation](https://img.shields.io/badge/Focus-Automation-green)
 ![AWS EC2](https://img.shields.io/badge/AWS-EC2-orange?logo=amazonec2&logoColor=white)
 
