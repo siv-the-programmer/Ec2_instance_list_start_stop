@@ -14,6 +14,8 @@ Stop an EC2 instance
 
 <img src="screenshots/pic1.png" width="400" alt="addpic">
 
+Select an option:
+
 <img src="screenshots/pic3.png" width="400" alt="addpic">
 
 Confirm in the AwsConsole if its running: 
