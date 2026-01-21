@@ -282,4 +282,3 @@ Learning cloud engineering through hands-on AWS automation.
 
 GitHub:
 https://github.com/siv-the-programmer
->>>>>>> f243ed56837d780305a6c22554c6d0c6bf51a963
