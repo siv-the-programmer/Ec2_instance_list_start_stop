@@ -6,6 +6,8 @@ It allows you to:
 
 List all EC2 instances in your AWS account
 
+<img src="screenshots/pic1.png" width="400" alt="addpic">
+
 View their current running state
 
 Start an EC2 instance
