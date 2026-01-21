@@ -2,7 +2,7 @@ import boto3
 import subprocess # for bash commands
 
 REGION = "eu-north-1"
-INSTANCE_ID = "ENTER_INSTANCE_ID" 
+INSTANCE_ID = "i-0ac6f2babcf93b074" 
 
 ec2 = boto3.client("ec2", region_name=REGION)
  
