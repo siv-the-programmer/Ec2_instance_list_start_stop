@@ -277,7 +277,7 @@ Telegram or email notifications
 ```
 # Author
 
-Siv
+Siv,
 Learning cloud engineering through hands-on AWS automation.
 
 GitHub:
