@@ -1,5 +1,7 @@
 #EC2 status checker 
 
+# Checks the state of an ec2 instance so i can run the ec2_control.py to start or stop.
+
 import boto3
 
 ec2 = boto3.client("ec2")
