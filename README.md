@@ -18,6 +18,8 @@ Start an EC2 instance
 
 Stop an EC2 instance
 
+<img src="screenshots/pic1.png" width="400" alt="addpic">
+
 # The goal of this project is to demonstrate practical AWS automation skills using both:
 
 AWS SDK for Python (boto3)
@@ -50,6 +52,8 @@ Instance IDs and states are displayed
 User selects whether to start or stop an instance
 
 boto3 sends the start or stop request to AWS EC2
+
+<img src="screenshots/pic3.png" width="400" alt="addpic">
 
 ---
 
@@ -87,6 +91,8 @@ def list_ec2():
 This uses the AWS CLI to:
 
 Retrieve all EC2 instance IDs
+
+<img src="screenshots/pic4.png" width="400" alt="addpic">
 
 Retrieve their current states
 
