@@ -6,7 +6,7 @@
 ![AWS EC2](https://img.shields.io/badge/AWS-EC2-orange?logo=amazonec2&logoColor=white)
 
 # Overview
-This project is a beginner-friendly AWS automation script built using Python, boto3, and AWS CLI.
+This project is an AWS automation script built using Python, boto3, and AWS CLI.
 
 It allows you to:
 
