@@ -20,6 +20,7 @@ Confirm in the AwsConsole if its running:
 
 <img src="screenshots/pic4.png" width="400" alt="addpic">
 
+Shows Running in the CLI: 
 <img src="screenshots/pic5.png" width="400" alt="addpic">
 
 # The goal of this project is to demonstrate practical AWS automation skills using both:
