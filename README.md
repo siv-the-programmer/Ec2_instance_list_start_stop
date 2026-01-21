@@ -58,7 +58,7 @@ boto3 sends the start or stop request to AWS EC2
 Check if running in AwsConsole:
 
 <img src="screenshots/pic4.png" width="400" alt="addpic">
----
+
 
 Script Breakdown
 --
