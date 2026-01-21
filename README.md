@@ -97,7 +97,7 @@ This calls the AWS EC2 API:
 StartInstances
 ```
 
-@ Billing begins when the instance enters the running state.
+# Billing begins when the instance enters the running state.
 
 4. Stopping an Instance
 ```
@@ -138,7 +138,7 @@ EC2 CONTROL
 Choose option (1 or 2):
 ```
 
-@ Prerequisites
+# Prerequisites
 1. Python installed
 python --version
 
@@ -193,7 +193,6 @@ The AWS user or role must have the following permissions:
 
 Without these permissions the script will fail.
 
---
 
 Important AWS Concepts Demonstrated
 --
